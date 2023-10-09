@@ -1,0 +1,12 @@
+#test-id {
+    width: 300px;
+    height: 300px;
+}
+
+.red-cube {
+    background-color: red;
+}
+
+.from-red-to-green {
+    background-color: rgb(0, 255, 0);
+}
